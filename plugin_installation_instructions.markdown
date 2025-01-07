@@ -1,6 +1,8 @@
+---
 layout: page
 title: QGIS Plugin Installation instructions
 permalink: /help/
+---
 
 1. Start QGIS
 2. Go to Plugins > Manage and install plugins
