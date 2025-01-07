@@ -21,7 +21,7 @@
 title: Jan's QGIS plugin repository
 email: jan.van.engelenhoven@rhdhv.com
 description: Website to host custom QGIS plugins
-baseurl: "JanvE97/about" # the subpath of your site, e.g. /blog
+baseurl: "JanvE97" # the subpath of your site, e.g. /blog
 url: "https://janve97.github.io/JanvE97/"
 github_username:  JanvE97
 
