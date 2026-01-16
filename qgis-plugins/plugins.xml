@@ -9,7 +9,7 @@
     <author_name>Jan van Engelenhoven</author_name>
     <author_email>jan.van.engelenhoven@rhdhv.com</author_email>
     <icon>plugins/icons/shed.png</icon>
-    <description>A tool to connect to various open data platforms to obtain data and postprocess it with various hydrological tools. Requires a (free) account at Copernicus Data Space platform. </description>
-    <about>A tool to connect to various open data platforms to obtain data and postprocess it with various hydrological tools. Requires a (free) account at Copernicus Data Space platform.</about>
+    <description>A tool to connect to various open data platforms to obtain data and postprocess it with various hydrological tools. </description>
+    <about>A tool to connect to various open data platforms to obtain data and postprocess it with various hydrological tools.</about>
   </pyqgis_plugin>
 </plugins>
