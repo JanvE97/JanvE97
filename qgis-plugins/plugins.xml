@@ -1,8 +1,8 @@
 <plugins>
-  <pyqgis_plugin name="SHED" version="0.4">         
+  <pyqgis_plugin name="SHED" version="0.5">         
     <qgis_minimum_version>3.0.0</qgis_minimum_version >
-    <download_url>https://janve97.github.io/JanvE97/qgis-plugins/plugins/shed.0.4.zip</download_url>
-    <file_name>shed.0.4.zip</file_name>
+    <download_url>https://janve97.github.io/JanvE97/qgis-plugins/plugins/shed.0.5.zip</download_url>
+    <file_name>shed.0.5.zip</file_name>
     <deprecated>False</deprecated>
     <experimental>True</experimental>
     <category>web</category>
